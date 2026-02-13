@@ -1,4 +1,5 @@
 <h2 align="center">oi bem-vindo ao meu Github</h2>
+
 -Olá meu nome é Marina.
 
 -Eu faço o curso de desenvolvimento de sistema.
@@ -16,7 +17,8 @@
 
 ###
 
-<img align="right" height="150" src="https://englishkstate.org/wp-content/uploads/2018/04/giphy.gif"  />
+<img align="right" height="150" src= "https://media.tenor.com/cMMjU4toTacAAAAM/malleus-malleus-draconia.gif"/>
+<img align="right" height="150" src= "https://i.redd.it/b70b9ypdsw161.gif"/>
 
 ###
 
