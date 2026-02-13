@@ -1,7 +1,10 @@
 <h2 align="center">oi bem-vindo ao meu Github</h2>
 -Olá meu nome é Marina.
+
 -Eu faço o curso de desenvolvimento de sistema.
+
 -Eu gostei mais do HTML.
+
 -Gosto de desenhar e de ler.
 
 ###
